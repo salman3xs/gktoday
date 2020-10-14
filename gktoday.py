@@ -23,7 +23,7 @@ for x in topic:
             for i in qus:
                 d = {}
                 qus = i.find('div', {'class': 'wp_quiz_question testclass'}).text.replace('\n', '').replace('\xa0', '').replace('\u2018', '').replace('\u2019', '').strip().split('.')
-                d['qus'] = qus[1]
+                d['question'] = qus[1]
                 try:
                     option = i.find('div', {'class': 'wp_quiz_question_options'}).text.replace('\n           ', '').replace('\u2013', '')
                 except:
@@ -34,12 +34,20 @@ for x in topic:
                 d['op3'] = op[3].replace('C]', '').strip()
                 d['op4'] = op[4].replace('D]', '').strip()
                 answer = i.find('div', {'class': 'ques_answer'}).text.replace('\n           ', '').replace('Correct Answer: ', '').split(' ')
-                d['answer'] = answer[0]
+                if answer[0]=='A':
+                    d['answer'] = '1'
+                if answer[0]=='B':
+                    d['answer'] = '2'
+                if answer[0]=='C':
+                    d['answer'] = '3'
+                if answer[0]=='D':
+                    d['answer'] = '4'
                 data.append(d)
         #print(data)
         n+=1
     allqus = {}
     allqus['topic'] = heading
+    allqus['subject'] = heading
     allqus['data'] = data
     try:
         json_object = json.dumps(allqus, indent=4)

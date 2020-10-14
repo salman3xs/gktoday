@@ -1,885 +1,886 @@
 {
     "topic": "Ancient Indian History",
+    "subject": "Ancient Indian History",
     "data": [
         {
-            "qus": "   Which Greek ambassador set up a pillar in honour of Vishnu?",
+            "question": "   Which Greek ambassador set up a pillar in honour of Vishnu?",
             "op1": "Megasthenes",
             "op2": "Heliodoros",
             "op3": "Theodorus",
             "op4": "Plato",
-            "answer": "B"
+            "answer": "2"
         },
         {
-            "qus": "   Which Greek King of Bactria invaded India about 190 B",
-            "op1": "Demetrius",
-            "op2": "Alexander",
-            "op3": "Seleucus Nicator",
-            "op4": "Menander",
-            "answer": "A"
+            "question": "   With which among the following places, the twenty third Jain Tirthankara was associated?",
+            "op1": "Vaishali",
+            "op2": "Kausambi",
+            "op3": "Varanasi",
+            "op4": "Sravasti",
+            "answer": "3"
         },
         {
-            "qus": "   The governors called Strategos were introduced by __?",
-            "op1": "Sakas",
-            "op2": "Indo-Greeks",
-            "op3": "Kushanas",
-            "op4": "Bactrians",
-            "answer": "B"
+            "question": "   Who was Kanthaka in the context of Gautam Buddha?",
+            "op1": "Charioteer",
+            "op2": "Body-guard",
+            "op3": "Cousin",
+            "op4": "Horse",
+            "answer": "4"
         },
         {
-            "qus": "   Who was the first Saka king in India?",
-            "op1": "Moga",
-            "op2": "Rudradaman",
-            "op3": "Azes",
-            "op4": "Ghatotkacha",
-            "answer": "A"
+            "question": "   Which among the following Buddhist scripture deals in the moral code of conduct?",
+            "op1": "Abhidhamma Pitaka",
+            "op2": "Vinay Pitaka",
+            "op3": "Sutta Pitaka",
+            "op4": "None of them",
+            "answer": "2"
         },
         {
-            "qus": " Rulers of which of the following dynasties maintained diplomatic relations with distant countries such as Syria in the West ?",
-            "op1": "Maurya",
-            "op2": "Gupta",
-            "op3": "Pallava",
-            "op4": "Chola",
-            "answer": "A"
+            "question": "   Vallabhi era is identical with which of the following era?",
+            "op1": "The Vikrama era",
+            "op2": "The Gupta era",
+            "op3": "The Harsha era",
+            "op4": "None of the above",
+            "answer": "2"
         },
         {
-            "qus": "   Which among the following village was the site of the Vikramshila Mahavihara, the renowned educational centre of Pala period?",
-            "op1": "Antichak",
-            "op2": "Aphasad",
-            "op3": "Basarh",
-            "op4": "Chandimau",
-            "answer": "A"
-        },
-        {
-            "qus": "   The Boghazkoi inscription was discovered in __?",
-            "op1": "India",
-            "op2": "Iran",
-            "op3": "Syria",
-            "op4": "Turkey",
-            "answer": "D"
-        },
-        {
-            "qus": "   Metronymics were borne by the later rulers of which among the following dynasties?",
-            "op1": "Maurya",
-            "op2": "Sunga",
-            "op3": "Kanva",
-            "op4": "Satavahana",
-            "answer": "D"
-        },
-        {
-            "qus": " The minister of the Gahadvala King Govindachandra and author of Kalpadruma was __?",
+            "question": " The minister of the Gahadvala King Govindachandra and author of Kalpadruma was __?",
             "op1": "Apararka",
             "op2": "Chandesvara",
             "op3": "Lakshmidhara",
             "op4": "Vijnanesvara",
-            "answer": "C"
+            "answer": "3"
         },
         {
-            "qus": "   At which among the following sites of Indus Valley Civilization, the rows of distinctive fire altars with provision of ritual bathing have been found ?",
-            "op1": "Mohen-jo-daro",
-            "op2": "Harappa",
-            "op3": "Kalibangan",
-            "op4": "Lothal",
-            "answer": "C"
+            "question": "   In which Buddhist council, Buddhism was divided into Sthaviravadins and Mahasanghikas?",
+            "op1": "Second Buddhist council",
+            "op2": "Third Buddhist council",
+            "op3": "First Buddhist council",
+            "op4": "Fourth Buddhist council",
+            "answer": "1"
         },
         {
-            "qus": "   Which of the following is not a correct observation as mentioned by Megasthenes about India?",
-            "op1": "There is abundant gold, silver, copper and iron in India",
-            "op2": "There is a well established caste system in India",
-            "op3": "There are frequent famines in India",
-            "op4": "Dionysus has invaded India",
-            "answer": "C"
+            "question": "   Who was the first Tirthankara in Jainism?",
+            "op1": "Rishabhdev",
+            "op2": "Parsavanath",
+            "op3": "Mahavira",
+            "op4": "Munisuvrata",
+            "answer": "1"
         },
         {
-            "qus": "   As per Asokas inscriptions, which among the following place was declared tax free and proclaimed only 1/8th part as taxable?",
-            "op1": "Kushinagar",
-            "op2": "Lumbini",
-            "op3": "Kathmandu",
-            "op4": "Sarnath",
-            "answer": "B"
+            "question": "   Where was the first Jain council held?",
+            "op1": "Pavapuri",
+            "op2": "Pataliputra",
+            "op3": "Jimbhikagrama",
+            "op4": "Vaishali",
+            "answer": "2"
         },
         {
-            "qus": " Which among the following Satavahana / Satakarni rulers recovered Malwa from the Shaka rulers?",
-            "op1": "Gautamiputra Satkarni",
-            "op2": "Satkarni I",
-            "op3": "Hala",
-            "op4": "Yajnsari Satkarni",
-            "answer": "D"
+            "question": "   Where was the second Jain council held?",
+            "op1": "Pataliputra",
+            "op2": "Vallabhi",
+            "op3": "Patliputra",
+            "op4": "Vaishali",
+            "answer": "2"
         },
         {
-            "qus": " Who identified \u201cSandrokottus\u201d of the Greco-Roman literature with Chandragupta Maurya?",
-            "op1": "D. R. Bhandarkar",
-            "op2": "Alexander Cunningham",
-            "op3": "R. P. Chanda",
-            "op4": "William Jones",
-            "answer": "D"
-        },
-        {
-            "qus": "   Which among the following village was the site of the Vikramshila Mahavihara, the renowned educational centre of Pala period?",
+            "question": "   Which among the following village was the site of the Vikramshila Mahavihara, the renowned educational centre of Pala period?",
             "op1": "Antichak",
             "op2": "Aphasad",
             "op3": "Basarh",
             "op4": "Chandimau",
-            "answer": "A"
+            "answer": "1"
         },
         {
-            "qus": "   Which among the following Buddhist scripture deals in the teachings of Buddhism?",
-            "op1": "Abhidhamma Pitaka",
-            "op2": "Vinay Pitaka",
-            "op3": "Sutta Pitaka",
-            "op4": "Both b & c",
-            "answer": "C"
+            "question": "   Vallabhi era is identical with which of the following era?",
+            "op1": "The Vikrama era",
+            "op2": "The Gupta era",
+            "op3": "The Harsha era",
+            "op4": "None of the above",
+            "answer": "2"
         },
         {
-            "qus": "   The Vikramshila University was set up by which ruler of Pala dynasty?",
-            "op1": "Dharmapala",
-            "op2": "Ramapala",
-            "op3": "Gopala",
-            "op4": "Kumarpala",
-            "answer": "A"
+            "question": "   \u201cThe king was the ruler of all except Brahamanas\u201d",
+            "op1": "Manu",
+            "op2": "Yajnavalkya",
+            "op3": "Apasthamba",
+            "op4": "Gautama",
+            "answer": "4"
         },
         {
-            "qus": "   Metronymics were borne by the later rulers of which among the following dynasties?",
-            "op1": "Maurya",
-            "op2": "Sunga",
-            "op3": "Kanva",
-            "op4": "Satavahana",
-            "answer": "D"
+            "question": "   What was the fifth tenet added by Tirthankara Mahavira to the four basic tenets of Jainism?",
+            "op1": "Non injury",
+            "op2": "Non lying",
+            "op3": "Observe continence",
+            "op4": "Non stealing",
+            "answer": "3"
         },
         {
-            "qus": "   Who took the title of Vatapikonda ?",
-            "op1": "Narsimhavarman I",
-            "op2": "Simhavishnu",
-            "op3": "Mahendravarman I",
-            "op4": "Nandivarman II",
-            "answer": "A"
+            "question": "   Who among the following was the founder of Pushyabhuti Dynasty ?",
+            "op1": "Pushyabhuti",
+            "op2": "Prabhakar Vardhan",
+            "op3": "Aditya vardhan",
+            "op4": "Harshavardhan",
+            "answer": "1"
         },
         {
-            "qus": "   Who among the following Pallava ruler built the Shore Temple at Mahabalipuram?",
-            "op1": "Narsimhavarman II",
-            "op2": "Nandivarman II",
-            "op3": "Aparajita",
-            "op4": "Mahendravarman I",
-            "answer": "A"
+            "question": "   Which among the following rulers is often described as the first empire builder of Indian History?",
+            "op1": "Dhanananda",
+            "op2": "Mahapadmananda",
+            "op3": "Bimbisara",
+            "op4": "Chandragupta Maurya",
+            "answer": "2"
         },
         {
-            "qus": "   Who was the last ruler of Shisunaga dynasty?",
-            "op1": "Kalashoka",
-            "op2": "Nandivardhan",
-            "op3": "Naga-Dasak",
-            "op4": "Udayin",
-            "answer": "B"
+            "question": "   Which of the following Upanishads gives clear reference of four Ashrams of individuals life?",
+            "op1": "Jabala Upanishad",
+            "op2": "Katha Upanishad",
+            "op3": "Virhadranyaka Upanishad",
+            "op4": "None of the above",
+            "answer": "1"
         },
         {
-            "qus": " Which was the important trade centre of ancient India on the trade route connecting Kalyana with Vengi?",
-            "op1": "Tagara",
-            "op2": "Sripura",
-            "op3": "Tripuri",
-            "op4": "Tamralipti",
-            "answer": "A"
+            "question": "   Who is known as the Father of Tamil literature?",
+            "op1": "Nakkirar",
+            "op2": "Pushyamitra",
+            "op3": "Aggatiyam",
+            "op4": "Agastaya",
+            "answer": "4"
         },
         {
-            "qus": "   In the Mauryan period, the duties of Mudradhyaksha were concerned with \u2013",
-            "op1": "Forest produce",
-            "op2": "Ports",
-            "op3": "Commerce",
-            "op4": "Passports",
-            "answer": "D"
+            "question": "   Who was the mother of Gautamiputra Satkarni?",
+            "op1": "Shubhadrangi",
+            "op2": "Nirjara",
+            "op3": "Gautami",
+            "op4": "Koshala",
+            "answer": "3"
         },
         {
-            "qus": "   In the Maurya empire, who was the superintendent of Ports ?",
-            "op1": "Pattanadhyaksha",
-            "op2": "Manadhyaksha",
-            "op3": "Kosadhyaksha",
-            "op4": "Ganikadhyaksha",
-            "answer": "A"
+            "question": "   Who was the priest of the Bharatas in the battle of Ten Kings ?",
+            "op1": "Visvamitra",
+            "op2": "Vasishtha",
+            "op3": "Atri",
+            "op4": "Bhrigu",
+            "answer": "1"
         },
         {
-            "qus": "   In Sangam age, the book Bharatam was written by__?",
-            "op1": "Perudevanar",
-            "op2": "Manimekalai",
-            "op3": "Seethalai Saathanaar",
-            "op4": "Tiruttakrdeva",
-            "answer": "A"
+            "question": "   The Pattini cult was established by which Sangam ruler?",
+            "op1": "Nedunjeral Adan, the Chera ruler",
+            "op2": "Senguttuvan, the Chera ruler",
+            "op3": "Karikala, the Chola ruler",
+            "op4": "Nedujeliyan, the Pandyan ruler",
+            "answer": "2"
         },
         {
-            "qus": "   Where was the first Tamil Sangam held__?",
-            "op1": "Madurai",
-            "op2": "Kapatpuram",
-            "op3": "Kaveripattnam",
-            "op4": "Kural",
-            "answer": "A"
+            "question": "   Which among the following was the capital of Chera Kingdom?",
+            "op1": "Tondi",
+            "op2": "Musiri",
+            "op3": "Vanji",
+            "op4": "Uraiyaur",
+            "answer": "3"
         },
         {
-            "qus": "   Who built a temple of Augustus at Muzris?",
-            "op1": "Romans",
-            "op2": "Cholas",
-            "op3": "Pandyas",
-            "op4": "Cheras",
-            "answer": "A"
+            "question": "   Which among the following places in India where all the Paleolithic, Mesolithic and Neolithic sites are found?",
+            "op1": "Bhimbetka",
+            "op2": "Belan Valley",
+            "op3": "Adamgarh",
+            "op4": "Mirzapur",
+            "answer": "2"
         },
         {
-            "qus": "   Who was the court physician during the reign of Kanishka-I?",
-            "op1": "Charak",
-            "op2": "Vasumitra",
-            "op3": "Nagarjuna",
-            "op4": "Asvaghosa",
-            "answer": "A"
+            "question": "   Which among the following are important functionaries of Early Vedic period?",
+            "op1": "Purohita",
+            "op2": "Senani",
+            "op3": "Gramini",
+            "op4": "All of the above",
+            "answer": "4"
         },
         {
-            "qus": "   Which Gupta emperor was an expert Veena player?",
-            "op1": "Sri Gupta",
-            "op2": "Samudragupta",
+            "question": "   Pushkalavati was capital of which of the following acient Kingdoms?",
+            "op1": "Gandhara",
+            "op2": "Kosal",
+            "op3": "Magadha",
+            "op4": "Kashi",
+            "answer": "1"
+        },
+        {
+            "question": "   Who was the earliest known Chola King who conquered Sri Lanka and ruled it ?",
+            "op1": "Karikala",
+            "op2": "Elara",
+            "op3": "Udiyangera",
+            "op4": "Nedunjelian",
+            "answer": "2"
+        },
+        {
+            "question": "   Which the following rulers is known as the Napoleon of India?",
+            "op1": "Samudragupta",
+            "op2": "Ashoka",
             "op3": "Chandragupta I",
-            "op4": "Kumargupta I",
-            "answer": "B"
+            "op4": "Skandgupta",
+            "answer": "1"
         },
         {
-            "qus": " Jorwe culture, a Chalcolithic culture, was first discovered in which of the following states of India?",
-            "op1": "Maharashtra",
-            "op2": "Rajasthan",
-            "op3": "Gujarat",
-            "op4": "Jammu & Kashmir",
-            "answer": "A"
+            "question": "   Which of the following inscriptions mentions Chandragupta Vikramadityas authority over North-Western India?",
+            "op1": "Mehrauli iron pillar inscription",
+            "op2": "Beirut inscription",
+            "op3": "Junagarh inscription",
+            "op4": "Allahbad pillar inscription",
+            "answer": "1"
         },
         {
-            "qus": " During the period of Harshavardhana the fields were watered by the pots which were called Ghati yantra",
-            "op1": "Hiuen-tsang",
-            "op2": "Subhandhu",
-            "op3": "Dandin",
-            "op4": "Banabhatta",
-            "answer": "A"
+            "question": " In the Indus Valley civilization the Great Granary was found in which among the following sites?",
+            "op1": "Mohenjodaro",
+            "op2": "Harappa",
+            "op3": "Surkotada",
+            "op4": "Lothal",
+            "answer": "1"
         },
         {
-            "qus": " Which among the following is true about Buddha?",
-            "op1": "He accepted existence of God",
-            "op2": "He didn\u2019t accept existence of God",
-            "op3": "He neither accepted nor rejected the existence of  god",
+            "question": "   The ancient port-site of Godavaya is located in which country?",
+            "op1": "Malaysia",
+            "op2": "Indonesia",
+            "op3": "Myanmar",
+            "op4": "Sri Lanka",
+            "answer": "4"
+        },
+        {
+            "question": "   Who wrote the book Pancha Siddhantika?",
+            "op1": "Varahamihira",
+            "op2": "Aryabhatta",
+            "op3": "Brahmagupta",
+            "op4": "Kalidas",
+            "answer": "1"
+        },
+        {
+            "question": " Which of the following rivers was known as \u201cDrishdvati\u201d in Vedic Era?",
+            "op1": "Ravi",
+            "op2": "Chenab",
+            "op3": "Jhelum",
+            "op4": "Ghagghar",
+            "answer": "4"
+        },
+        {
+            "question": " Hiuen Tsang, had visited the court of which among the following rulers?",
+            "op1": "Harshavardhana",
+            "op2": "Chandragupta Maurya",
+            "op3": "Asoka",
+            "op4": "Pulkesin II",
+            "answer": "1"
+        },
+        {
+            "question": " Which king of Ancient India has been given the title\u201d Indian Nepoleon\u201d by VA Smith?",
+            "op1": "Samudragupta",
+            "op2": "Kumaragupta",
+            "op3": "Chandragupta Vikramaditya",
+            "op4": "Skandagupta",
+            "answer": "1"
+        },
+        {
+            "question": " Every five years, Harshavardhana used to donate all his possessions at an assembly at which among the following places?",
+            "op1": "Ujjain",
+            "op2": "Banaras",
+            "op3": "Prayag",
+            "op4": "Kannauj",
+            "answer": "3"
+        },
+        {
+            "question": " Who among the following was the first Tirthankar of Jainism?",
+            "op1": "Rishabh dev",
+            "op2": "Parshwanath",
+            "op3": "Neminath",
+            "op4": "Sambhavanath",
+            "answer": "1"
+        },
+        {
+            "question": " Savatthi was capital of which among the 16 Mahajanpadas?",
+            "op1": "Kasi",
+            "op2": "Kosala",
+            "op3": "Matsya",
+            "op4": "Anga",
+            "answer": "2"
+        },
+        {
+            "question": " Sankara is related to which of the following?",
+            "op1": "Advaita Philosophy",
+            "op2": "Samkhya Philosophy",
+            "op3": "Nyaya Philosophy",
+            "op4": "Dharma Philosophy",
+            "answer": "1"
+        },
+        {
+            "question": " Which of the following was another name of Pallava King Narasimhavarman-I?",
+            "op1": "Mamalla",
+            "op2": "Mahedravarman",
+            "op3": "Apapar",
             "op4": "None of the above",
-            "answer": "C"
+            "answer": "1"
         },
         {
-            "qus": " Kharvela who constructed caves in the Udaigri for jain Monks was a ruler belonging to which dynasty ?",
-            "op1": "Cheti",
-            "op2": "Satavahana",
-            "op3": "Shunga",
-            "op4": "Nanda",
-            "answer": "A"
+            "question": " which among the following sentence is incorrect about Rajadhiraja Chola I?",
+            "op1": "He was a born fighter son of Rajendra Chola I",
+            "op2": "He died in the battle of Koppan fighting with Chalukyas",
+            "op3": "He assumed the title of Parakesari",
+            "op4": "All are correct",
+            "answer": "3"
         },
         {
-            "qus": " Aihole is called the cradle of Indian temple architecture",
-            "op1": "Chalukya",
-            "op2": "Chola",
-            "op3": "Chera",
-            "op4": "None of the above",
-            "answer": "A"
+            "question": " After death ofBindusara, who among the following is considered to helpAsokato capture the throne?",
+            "op1": "Vishnugupta",
+            "op2": "Radhagupta",
+            "op3": "Tishya",
+            "op4": "Bairam khan",
+            "answer": "2"
         },
         {
-            "qus": " Which Buddhist council was held during the reign of Kanishka?",
-            "op1": "1st",
-            "op2": "2nd",
-            "op3": "3rd",
-            "op4": "4th",
-            "answer": "D"
+            "question": " Which among the following kingdom in South India was known for an excellent Navy ?",
+            "op1": "Pandyas",
+            "op2": "Cholas",
+            "op3": "Pallavas",
+            "op4": "Chalukyas",
+            "answer": "2"
         },
         {
-            "qus": " Giak & Kiari are located in which of the following ?",
-            "op1": "Ladakh",
-            "op2": "Orissa",
-            "op3": "Kuchh",
-            "op4": "Assam",
-            "answer": "A"
+            "question": " How the hero of Malvikagnimitra of Kalidasa was related to Pushyamitra Sunga?",
+            "op1": "His son",
+            "op2": "His grandson",
+            "op3": "His father",
+            "op4": "His brother",
+            "answer": "1"
         },
         {
-            "qus": " The three sangams were organized under the chairmanship of which of the following?",
-            "op1": "Rishi Agastya, Nakkirar, Rishi Agastya",
-            "op2": "Rishi Agastya, Rishi Agastya & Nakkirar",
-            "op3": "Nakkirar,Rishi Agastya, Rishi Agastya",
-            "op4": "None of the above",
-            "answer": "B"
+            "question": " Which of the following Chinise rulers built the great wall of China?",
+            "op1": "Pan Chao",
+            "op2": "Pu Yi",
+            "op3": "Wang Hsu Tsi",
+            "op4": "Qin Shi Huangv",
+            "answer": "4"
         },
         {
-            "qus": " Who among the following is considered to organize a confederacy of 10 tribes or Kings against Sudas?",
-            "op1": "Vashishta",
-            "op2": "Vishawamitra",
-            "op3": "Puru",
-            "op4": "Agatsya",
-            "answer": "B"
+            "question": " Bring out the only incorrect statement:",
+            "op1": "Brihadrath was the last ruler of mauryan Dynasty",
+            "op2": "Devabhuti was the last ruler of Sunga Dynasty",
+            "op3": "Ajatashatru was the last ruler of Haranyaka Dynasty",
+            "op4": "Dhana Nanda was the last ruler of Nanda Dynasty",
+            "answer": "3"
         },
         {
-            "qus": " Which among the following are correct about Chola King Rajendra Chola1?",
-            "op1": "He built a temple for Siva at Gangaikonda Cholapuram",
-            "op2": "He also built Tanjore Brihadisvara temple",
-            "op3": "He built Tanjore Brihadisvara temple for a tribute to his father",
-            "op4": "None of the above",
-            "answer": "A"
+            "question": " In Greek texts, who among the following has been mentioned as Amitrochates?",
+            "op1": "Bimbisara",
+            "op2": "Bindusara",
+            "op3": "Kautilya",
+            "op4": "Ashoka",
+            "answer": "2"
         },
         {
-            "qus": " \u201cThe greatest law giver \u201d of ancient India was who among the following?",
-            "op1": "Banabhatta",
-            "op2": "Kautilya",
-            "op3": "Manu",
-            "op4": "Chanukya",
-            "answer": "C"
+            "question": " Which among the following emperors introduced the two laws of Vyavahar Samta and Danda Samata?",
+            "op1": "Chandragupta Maurya",
+            "op2": "Asoka",
+            "op3": "Chandragupta Vikramaditya",
+            "op4": "Samudragupta",
+            "answer": "2"
         },
         {
-            "qus": " The doctrine of Advaita advocated that:",
-            "op1": "God is Unique",
-            "op2": "God is Immortal",
-            "op3": "God is Knowledge",
-            "op4": "God is Formless",
-            "answer": "A"
+            "question": " Bring out the only incorrect statement:",
+            "op1": "Rajukas were appointed by Asoka as Judicial Officers",
+            "op2": "The Sunga dynasty retained the title senapati, even after becoming kings",
+            "op3": "Kalinganagar was an ancient city destroyed by Cyclone",
+            "op4": "Asoka has expressed faith in Buddhism in Kandhar Inscription",
+            "answer": "4"
         },
         {
-            "qus": " With reference to the Shramana movement of the ancient India, which among the following statements is / are correct? 1",
+            "question": " The first astronomical observatory of Harappan Civilization has been found at which among the following ancient Indian sites?",
+            "op1": "Chanhudaro",
+            "op2": "Ropar",
+            "op3": "Daimabad",
+            "op4": "Dholavira",
+            "answer": "4"
+        },
+        {
+            "question": " With reference to the Trikaya doctrine, consider the following statements:Trikaya doctrine is one of the basic concept in Hinayana tradition of BuddhismTrikaya doctrine was largely developed by Yogacara SchoolWhich among the above statements is / are correct?",
             "op1": "Only 1",
             "op2": "Only 2",
             "op3": "Both 1 & 2",
             "op4": "Neither 1 nor 2",
-            "answer": "C"
+            "answer": "2"
         },
         {
-            "qus": " According to the Jaina traditions, who among the following Tirthankaras was from the same Yadava clan as Krishna?",
-            "op1": "Neminatha",
-            "op2": "Mallinatha",
-            "op3": "Parsvanatha",
-            "op4": "Adinatha",
-            "answer": "A"
+            "question": " Why the Buddhas teachings are considered to be along the middle path?",
+            "op1": "It was based on two cultures",
+            "op2": "It avoided the extremes of habitual sensuality and habitual self-torture",
+            "op3": "It may be practiced by all very easily",
+            "op4": "It stood between the Vedic religion and Jainism",
+            "answer": "2"
         },
         {
-            "qus": " Which among the following is / are characteristic features of the Indus towns and cities? 1",
-            "op1": "Only 1 & 3",
-            "op2": "Only 3",
-            "op3": "Only 1 & 3",
-            "op4": "None of them",
-            "answer": "D"
+            "question": " The first documented evidence of untouchability in ancient India comes from which among the following periods?",
+            "op1": "Maurya Period",
+            "op2": "Shunga Period",
+            "op3": "Gupta Era",
+            "op4": "Times after reign of Harsha",
+            "answer": "3"
         },
         {
-            "qus": " Which among the following is / are the hallmark features of Neolithic revolution? 1",
-            "op1": "Only 1",
-            "op2": "Only 2 & 3",
-            "op3": "1, 2 & 3",
-            "op4": "Only 1 & 3",
-            "answer": "D"
+            "question": " Which of the following is associated with Palaeolithic Period?",
+            "op1": "Fertile Crescent",
+            "op2": "Polished Hand Axe",
+            "op3": "Painted pottery",
+            "op4": "Nomadism",
+            "answer": "4"
         },
         {
-            "qus": " Which among the following is / are considered to be Shruti Literature?VedasBrahmansAranyakasUpanishadsSelect the correct option from the codes given below:",
-            "op1": "Only 1 & 2",
-            "op2": "Only 1, 3 & 4",
-            "op3": "Only 1, 2 & 3",
-            "op4": "1, 2, 3 & 4",
-            "answer": "D"
+            "question": " The earliest evidence of existence of human in Indiawas found in the _?",
+            "op1": "Maikal Hills",
+            "op2": "Indus Valley",
+            "op3": "Narmada Valley",
+            "op4": "Nallamala Hills",
+            "answer": "3"
         },
         {
-            "qus": " Both Nyaya and Vaisheshika: 1",
-            "op1": "Only 1 & 2",
-            "op2": "Only 2 & 3",
-            "op3": "Only 1 & 3",
-            "op4": "1, 2 & 3",
-            "answer": "D"
+            "question": "  Consider the following statements about Ashokan Edicts: All Ashokan edicts are written in Prakrit languageDevanagari scriptwas the most common script used for all writings  Which of the above statements is/are correct?",
+            "op1": "1 Only",
+            "op2": "2 Only",
+            "op3": "Both 1 & 2",
+            "op4": "Neither 1 nor 2",
+            "answer": "4"
         },
         {
-            "qus": " There is only one Rock Edict in which Asoka talks about taxation",
-            "op1": "Bhabru Inscription",
-            "op2": "Nigalisagar Pillar Inscription",
-            "op3": "Rummindei Pillar Inscription",
-            "op4": "Barabar Cave Inscription",
-            "answer": "C"
-        },
-        {
-            "qus": "  Which of the following site is known for cave paintings of Mesolithic Age?",
-            "op1": "Dholavira",
-            "op2": "Ellora",
-            "op3": "Bhimbetka",
-            "op4": "Soan Valley",
-            "answer": "C"
-        },
-        {
-            "qus": " The Satpatha Brahmana is attached to which of the following?",
-            "op1": "Rig Veda",
-            "op2": "Sama Veda",
-            "op3": "Yajur Veda",
-            "op4": "Atharva Veda",
-            "answer": "0"
-        },
-        {
-            "qus": " Which of the following rivers find mention in Rig-Veda?GangaYamunaSarasvatiSelect the correct option from the codes given below:",
+            "question": "   Consider the following statements about the book Arthashastra: It is a treatise on Mauryan political, economicand administrationChanakya is credited as the author of the bookThe book was originally written in Prakritlanguage  Which of the above statements is/are correct?",
             "op1": "1 & 2 Only",
             "op2": "3 Only",
-            "op3": "1 & 3 Only",
+            "op3": "2 & 3 Only",
             "op4": "1, 2 & 3",
-            "answer": "D"
+            "answer": "1"
         },
         {
-            "qus": "  In which among the following Mahajanapada, Lord Buddha attained parinirvana?",
-            "op1": "Anga",
-            "op2": "Magadha",
-            "op3": "Malla",
-            "op4": "Vatsa",
-            "answer": "C"
+            "question": "   Consider the following pairs: Sabha and Samiti \u2013  Vedic periodGirnar inscription \u2013  RudradamanDevnam piya \u2013  Ashoka   Which of the above is/are correct?",
+            "op1": "1 & 2 Only",
+            "op2": "3 Only",
+            "op3": "2 & 3 Only",
+            "op4": "1, 2 & 3",
+            "answer": "4"
         },
         {
-            "qus": "  Which of the following age refers to the Old Stone Age?",
+            "question": " The Srauta Sutra, Grihya Sutra, Dharma Sutra and Sulba Sutra are the parts of which among the following Vedangas?",
+            "op1": "Vyakarana",
+            "op2": "Kalpa",
+            "op3": "Nirkuta",
+            "op4": "Shiksha",
+            "answer": "2"
+        },
+        {
+            "question": "  The rock paintings found at Bhimbetka generally belong to which of the following periods?",
             "op1": "Paleolithic",
             "op2": "Mesolithic",
             "op3": "Neolithic",
             "op4": "Chalcolithic",
-            "answer": "A"
+            "answer": "2"
         },
         {
-            "qus": " Which of the following was basis of initial differentiation between the Vedic and non-Vedic people?",
-            "op1": "Varna",
-            "op2": "Jati",
-            "op3": "Occupation",
-            "op4": "Religion",
-            "answer": "A"
+            "question": " Which of the following is true about Avesta?",
+            "op1": "It is an Indian text",
+            "op2": "It is an Iranian text",
+            "op3": "It is a Chinese text",
+            "op4": "It is an European text",
+            "answer": "2"
         },
         {
-            "qus": " What is Chandrayana?",
-            "op1": "Penance for men marrying women of the same gotra",
-            "op2": "Penance for men marrying women of the same religion",
-            "op3": "Penance for men marrying women of the same jati",
-            "op4": "Penance for men marrying women of the same varna",
-            "answer": "A"
+            "question": " Which of the following are the Pancha Mahavrata or the five great vows of Jainism?1",
+            "op1": "Only 1 & 2",
+            "op2": "Only 1, 2 & 3",
+            "op3": "Only 3, 4 & 4",
+            "op4": "1, 2, 3, 4 & 5",
+            "answer": "4"
         },
         {
-            "qus": " When was Gautam Buddha born?",
-            "op1": "543 BC",
-            "op2": "563 BC",
-            "op3": "583 BC",
-            "op4": "593 BC",
-            "answer": "B"
+            "question": " What was the name of Siddharthas charioteer?",
+            "op1": "Channa",
+            "op2": "Kanthaka",
+            "op3": "Kondanna",
+            "op4": "Vappa",
+            "answer": "1"
         },
         {
-            "qus": " Mahatma Buddha visited the Kaushambi during the reign of which of the following kings?",
-            "op1": "Dharmasen",
-            "op2": "Bodhi",
-            "op3": "Udayana",
-            "op4": "Satanika",
-            "answer": "C"
+            "question": " Which of the following are the five ethical code of conduct governing the behaviour of members of the monastic order in Buddhism?1",
+            "op1": "Only 1, 2 & 3",
+            "op2": "Only 2, 3 & 4",
+            "op3": "Only 1, 3, 4 & 5",
+            "op4": "1, 2, 3, 4 & 5",
+            "answer": "4"
         },
         {
-            "qus": " Which of the following has been a patron of Ajivika order?",
-            "op1": "Prasenjit",
-            "op2": "Chanakya",
-            "op3": "Pushyamitra Shunga",
-            "op4": "None of the above",
-            "answer": "A"
+            "question": " Under the reign of which of the following kings the third Buddhist council held?",
+            "op1": "Kanishka",
+            "op2": "Harshvardhana",
+            "op3": "Ashoka",
+            "op4": "Kalasoka",
+            "answer": "3"
         },
         {
-            "qus": " What was the capital of Kosala mahajanapadas southern part?",
-            "op1": "Kushavati",
-            "op2": "Vaishali",
-            "op3": "Kushinara",
-            "op4": "Pava",
-            "answer": "A"
+            "question": " What was a merchant street called in the 6th century BCE?",
+            "op1": "Mahanagara",
+            "op2": "Vessas",
+            "op3": "Setthi",
+            "op4": "Guilds",
+            "answer": "2"
         },
         {
-            "qus": " Who was the King of Vajji mahajanapada?",
-            "op1": "Prasenjit",
-            "op2": "Shishupala",
-            "op3": "Chetaka",
-            "op4": "Udayana",
-            "answer": "C"
-        },
-        {
-            "qus": " Ajivika was founded by which of the following?",
-            "op1": "Makkhali Gosala",
-            "op2": "Janak",
-            "op3": "Krishna",
-            "op4": "Tirugyan",
-            "answer": "A"
-        },
-        {
-            "qus": " Which of the following is also known as Lokayata?",
-            "op1": "Charvak",
-            "op2": "Mahavira",
-            "op3": "Buddha",
-            "op4": "Shaivites",
-            "answer": "A"
-        },
-        {
-            "qus": " Which of the following is the earliest known teacher of complete materialism?",
-            "op1": "Makkhali Gosala",
-            "op2": "Ajita Kesakamblin",
-            "op3": "Mahavira",
-            "op4": "Dashratha",
-            "answer": "B"
-        },
-        {
-            "qus": " What was the capital of Anga mahajanapada?",
-            "op1": "Varanasi",
-            "op2": "Kushavati",
-            "op3": "Champa",
-            "op4": "Vaishali",
-            "answer": "C"
-        },
-        {
-            "qus": " Which of the following statements are correct regarding Gana-Sanghas?1",
+            "question": " Which of the following was a part of the three-pronged policy of Bimbisara to expand his empire?1",
             "op1": "Only 1",
-            "op2": "Only 2",
-            "op3": "Both 1 & 2",
-            "op4": "Neither 1 & 2",
-            "answer": "C"
+            "op2": "Only 1 & 2",
+            "op3": "Only 3",
+            "op4": "1, 2 & 3",
+            "answer": "4"
         },
         {
-            "qus": " What was the amount of produce to be paid by the peasants as tax during the 6th century BCE?",
-            "op1": "1/4th of total produce",
-            "op2": "1/5th of total produce",
-            "op3": "1/10th of total produce",
-            "op4": "1/6th of total produce",
-            "answer": "D"
+            "question": " Which of the following Indian rulers gave 500 elephants to Seleucus Nicator?",
+            "op1": "Samudragupta",
+            "op2": "Chandragupta Maurya",
+            "op3": "Ashoka",
+            "op4": "Alexander",
+            "answer": "2"
         },
         {
-            "qus": " Bimbisara ruled for how many years?",
-            "op1": "40",
-            "op2": "42",
-            "op3": "50",
-            "op4": "52",
-            "answer": "D"
-        },
-        {
-            "qus": " According to Mahavamsa and Dipavamsa, Ashoka was converted to Buddhism by which of the following?",
-            "op1": "Samudra",
-            "op2": "Nigrodha",
-            "op3": "Vitashoka",
-            "op4": "None of the above",
-            "answer": "B"
-        },
-        {
-            "qus": " In which Rock Edict Bheri Ghosha (war drum) replaced by Dhamma Ghosha?",
-            "op1": "Four Edict",
-            "op2": "Fifth Edict",
-            "op3": "Sixth Edict",
-            "op4": "Seventh Edict",
-            "answer": "A"
-        },
-        {
-            "qus": " In which Rock Edict royal pleasure tours (Vihara-yatras) were replaced by dhamma tours (dhamma-yatras)?",
+            "question": " In which Rock Edict royal pleasure tours (Vihara-yatras) were replaced by dhamma tours (dhamma-yatras)?",
             "op1": "Seventh Edict",
             "op2": "Fifth Edict",
             "op3": "Eighth Edict",
             "op4": "Tenth Edict",
-            "answer": "C"
+            "answer": "3"
         },
         {
-            "qus": " What was the capital of the southern part of Avanti Mahajanapada?",
-            "op1": "Mahishmati",
-            "op2": "Mathura",
-            "op3": "Ujjain",
-            "op4": "Taxila",
-            "answer": "A"
+            "question": " Which of the following material was used for the construction of Ashokan pillars?",
+            "op1": "Limestone",
+            "op2": "Sandstone",
+            "op3": "Granite",
+            "op4": "Red stone",
+            "answer": "2"
         },
         {
-            "qus": " The famous battle of Hydaspes was fought between Alexander and which of the following Indian ruler?",
-            "op1": "King Ambhi",
-            "op2": "Chandragupta Maurya",
-            "op3": "King Porus",
-            "op4": "Bimbisara",
-            "answer": "C"
+            "question": " Which of the following pillar edicts defines the term Dhamma?",
+            "op1": "First Pillar Edict",
+            "op2": "Second Pillar Edict",
+            "op3": "Third Pillar Edict",
+            "op4": "Fifth Pillar Edict",
+            "answer": "2"
         },
         {
-            "qus": " Chandragupta accompanied the Jain saint Bhadrabhau to which of the following places?",
-            "op1": "Nalanda",
-            "op2": "Shravana Belagola",
-            "op3": "Taxila",
-            "op4": "Madurai",
-            "answer": "B"
+            "question": " Which of the following committee kept a watch over wights and measures in Mauryan administration?",
+            "op1": "Trade, Commerce and Market regulations",
+            "op2": "Manufacturing Articles",
+            "op3": "Industry",
+            "op4": "Vital Statistics",
+            "answer": "1"
         },
         {
-            "qus": " Who was the father of Bindusara?",
-            "op1": "Chandragupta Maurya",
-            "op2": "Samudragupta",
-            "op3": "Ashoka",
-            "op4": "Bhadrabahu",
-            "answer": "A"
+            "question": " Who were the Sthanikas?",
+            "op1": "They collected taxes",
+            "op2": "They sold liqor",
+            "op3": "They were traders",
+            "op4": "Head of a village",
+            "answer": "1"
         },
         {
-            "qus": " Which of the following statements are correct regarding Ashokan pillar edicts?1",
-            "op1": "Only 1",
-            "op2": "Only 2 & 3",
-            "op3": "Only 1 & 3",
-            "op4": "1, 2 & 3",
-            "answer": "D"
+            "question": " Nagasena converted which of the following to Buddhism?",
+            "op1": "Manender",
+            "op2": "Demetrius",
+            "op3": "Gondophernes",
+            "op4": "Hermaius",
+            "answer": "1"
         },
         {
-            "qus": " Which of the following diplomatic posts are mentioned in the Arthashastra of Kautilya?1",
-            "op1": "Only 1",
-            "op2": "Only 2",
-            "op3": "Only 1 & 2",
-            "op4": "1, 2 & 3",
-            "answer": "D"
+            "question": " Which of the following is identical with the Andhras of the Puranas?",
+            "op1": "Satavahanas",
+            "op2": "Shungas",
+            "op3": "Kanvas",
+            "op4": "Kushans",
+            "answer": "1"
         },
         {
-            "qus": " Which of the following was a great center for the manufacturing of Shataka in the post-Mauryan times?",
-            "op1": "Varanasi",
-            "op2": "Mathura",
-            "op3": "Taxila",
-            "op4": "Patliputra",
-            "answer": "B"
+            "question": " Satavahanas claimed their descent from which of the following varna?",
+            "op1": "Brahmana",
+            "op2": "Kshtriya",
+            "op3": "Vaishiya",
+            "op4": "Shudra",
+            "answer": "1"
         },
         {
-            "qus": " Which of the following was one of the major ports during the Indo-Greek trade?1) Broach2) Sopara3) TamraliptiSelect the correct option from the codes given below:",
-            "op1": "Only 1",
-            "op2": "Only 2 & 3",
-            "op3": "Only 1 & 3",
-            "op4": "1, 2 & 3",
-            "answer": "D"
+            "question": " Which of the following was the most famous ruler of Satavahana dysnasty?",
+            "op1": "Simuka",
+            "op2": "Gautamiputra Satkarni",
+            "op3": "Vashishthiputra Pulumayi",
+            "op4": "Yajna Sri Satakarni",
+            "answer": "2"
         },
         {
-            "qus": " Which of the following articles formed an important item of export to the Roman Empire in post-Mauryan times?",
-            "op1": "Iron",
-            "op2": "Gold",
-            "op3": "Wine",
-            "op4": "Pottery",
-            "answer": "A"
+            "question": " The Satavahanas majorly issued which of the following types of coins?",
+            "op1": "Lead coins",
+            "op2": "Gold coins",
+            "op3": "Silver coins",
+            "op4": "Copper coins",
+            "answer": "1"
         },
         {
-            "qus": " Which of the following Kushana ruler proclaimed himself as Mahishvara on his coins?",
-            "op1": "Kanishka",
-            "op2": "Kadphises I",
-            "op3": "Vasudeva II",
-            "op4": "Vima Kadphises",
-            "answer": "D"
+            "question": " Which of the following language was used in Kanishkas coins and inscriptions?",
+            "op1": "Pali",
+            "op2": "Prakrit",
+            "op3": "Bactrian language",
+            "op4": "Sanskrit",
+            "answer": "3"
         },
         {
-            "qus": " Which of the following started the Gupta era?",
-            "op1": "Chandragupta I",
-            "op2": "Chandragupta II",
-            "op3": "Samudragupta",
-            "op4": "Skandagupta",
-            "answer": "A"
+            "question": " Which of the following rulers of the Kushan period adopted the title Devputra?",
+            "op1": "Kadphises I",
+            "op2": "Vima Kadphises",
+            "op3": "Kanishka",
+            "op4": "Vasudeva II",
+            "answer": "3"
         },
         {
-            "qus": " Which of the following founded the Nalanda University?",
-            "op1": "Kumargupta",
-            "op2": "Chandragupta II",
-            "op3": "Skandagupta",
-            "op4": "Samudragupta",
-            "answer": "A"
-        },
-        {
-            "qus": " During which of the following period, Sanskrit was firmly established as the language of royal inscriptions?",
+            "question": " Which of the following empire assigned a sub-caste to the foreigners?",
             "op1": "Gupta Empire",
-            "op2": "Maurya empire",
-            "op3": "Magadha Empire",
-            "op4": "Kushana Empire",
-            "answer": "A"
+            "op2": "Kushana Empire",
+            "op3": "Maurya empire",
+            "op4": "Magadha Empire",
+            "answer": "1"
         },
         {
-            "qus": " Agrahara Grants were given to which of the following?",
-            "op1": "Brahmins",
-            "op2": "Kshtriyas",
-            "op3": "Vaishyas",
-            "op4": "Shudras",
-            "answer": "A"
+            "question": " Which of the following kings adopted the title Adivaraha?",
+            "op1": "Harichandra",
+            "op2": "Mihir Bhoja",
+            "op3": "Nagabhatta I",
+            "op4": "Vatsaraja",
+            "answer": "2"
         },
         {
-            "qus": " Which of the following is correct with respect to gold coins issued by Gupta empire?1",
+            "question": " Which of the following kings was the most powerful king of the Karkota dynasty?",
+            "op1": "Durlabhavardhana",
+            "op2": "Lalitaditya Muktapida",
+            "op3": "Vajrayudha",
+            "op4": "Avantivarman",
+            "answer": "2"
+        },
+        {
+            "question": " Which of the following rulers was the last ruler of Gahadavalas?",
+            "op1": "Jayachandra",
+            "op2": "Prithviraj Chauhan",
+            "op3": "Vijaychandra",
+            "op4": "Chandraveda",
+            "answer": "1"
+        },
+        {
+            "question": " Which of the following kings conquered Delhi from the Tomara chief?",
+            "op1": "Kirtivarman",
+            "op2": "Govindachandra",
+            "op3": "Visaladeva",
+            "op4": "Prithviraj Chauhan",
+            "answer": "3"
+        },
+        {
+            "question": " Which of the following defeated the Kadambas and captured their kingdom in A",
+            "op1": "Chalukyas of Badami",
+            "op2": "Chalukyas of Vengi",
+            "op3": "Pallavas",
+            "op4": "Pandyas",
+            "answer": "1"
+        },
+        {
+            "question": " Which of the following kings have built a temple at Kambay and consecrated a golden image of Mahavira?",
+            "op1": "Lakshmanaraja",
+            "op2": "Vatsaraja",
+            "op3": "Raja Bhoja",
+            "op4": "Upendra",
+            "answer": "2"
+        },
+        {
+            "question": " Which of the following is correct regarding internal trade during the early medieval period?1",
+            "op1": "Only 1",
+            "op2": "Only 1 & 3",
+            "op3": "Only 3",
+            "op4": "1, 2 & 3",
+            "answer": "4"
+        },
+        {
+            "question": " Which of the following authors composed Haravijaya?",
+            "op1": "Rajanaka Ratnakar",
+            "op2": "Jinasena",
+            "op3": "Sanmitracharita",
+            "op4": "Abhinanda",
+            "answer": "1"
+        },
+        {
+            "question": " Which of the following authors wrote Navasahasankacharita,?",
+            "op1": "Padmagupta",
+            "op2": "Jinasena",
+            "op3": "Sanmitracharita",
+            "op4": "Abhinanda",
+            "answer": "1"
+        },
+        {
+            "question": " Which of the following was the author of Rajamartanda?",
+            "op1": "Bhoja",
+            "op2": "Jayanta",
+            "op3": "Nathamuni",
+            "op4": "Yamunacharya",
+            "answer": "1"
+        },
+        {
+            "question": " Which of the statements are correct with respect to administration during the time of Harsha?1",
             "op1": "Only 1",
             "op2": "Only 2",
-            "op3": "Both 1 & 2",
-            "op4": "Neither 1 & 2",
-            "answer": "C"
+            "op3": "Only 2 & 3",
+            "op4": "1, 2 & 3",
+            "answer": "4"
         },
         {
-            "qus": " Which of the following kings was the son of Prithvisena I?",
-            "op1": "Prithvisena II",
-            "op2": "Rudrasena II",
-            "op3": "Rudrasena I",
-            "op4": "Pravarasena II",
-            "answer": "B"
+            "question": " Which of the following book was a practical guide for poets?",
+            "op1": "Kavya Mimansa",
+            "op2": "Balaramayana",
+            "op3": "Vidhasalabhanjika",
+            "op4": "Balabharata",
+            "answer": "1"
         },
         {
-            "qus": " Which of the following was the author of Kadambari?",
-            "op1": "Kalidasa",
-            "op2": "Bhasa",
-            "op3": "Amarsimha",
-            "op4": "Banabhatta",
-            "answer": "D"
+            "question": " Surapala and Ramapala were the brothers of which of the following kings?",
+            "op1": "Dharmapala",
+            "op2": "Devapala",
+            "op3": "Narayanapala",
+            "op4": "Mahipala II",
+            "answer": "4"
         },
         {
-            "qus": " Which of the following Chinese traveller was sent to the Harshas court 646 AD?",
-            "op1": "Fa-Hein",
-            "op2": "Hsuan Tsang",
-            "op3": "I-tsing",
-            "op4": "Wang-hiuen-tse",
-            "answer": "D"
+            "question": " During the reign of which of the following ruler did Hiuen Tsang visited Kashmir?",
+            "op1": "Kanishka",
+            "op2": "Ashoka",
+            "op3": "Pratapaditya",
+            "op4": "Durlabhavardhana",
+            "answer": "4"
         },
         {
-            "qus": " Which of the following kings was called as King Baura by Al-Masudi?",
-            "op1": "Mihir Bhoja",
-            "op2": "Harichandra",
-            "op3": "Nagabhatta  I",
-            "op4": "Vatsaraja",
-            "answer": "A"
+            "question": " Which of the following dominated the early medieval period?1",
+            "op1": "Only 1 & 2",
+            "op2": "Only 2 & 3",
+            "op3": "Only 1, 2 & 3",
+            "op4": "1, 2, 3 & 4",
+            "answer": "1"
         },
         {
-            "qus": " Dharmapala was challenged by which of the following Pratihara rulers?",
-            "op1": "Nagabhata I",
-            "op2": "Vatsaraja",
-            "op3": "Nagabhata II",
-            "op4": "Bhoja II",
-            "answer": "C"
-        },
-        {
-            "qus": " During the early medieval period the status of which of the following degenerated?",
-            "op1": "Brahmanas",
-            "op2": "Kshtriyas",
-            "op3": "Vaishyas",
-            "op4": "Shudras",
-            "answer": "C"
-        },
-        {
-            "qus": " Which of the following kings founded the Vikramasilavihara?",
-            "op1": "Gopala",
-            "op2": "Dharmapala",
-            "op3": "Devapala",
-            "op4": "Mahendrapala",
-            "answer": "B"
-        },
-        {
-            "qus": " Which of the following Jain writers flourished in the court of Paramara kings?1) Dhanesvarasuri2) Dhanapala3) SantisuriSelect the correct option from the codes given below:",
+            "question": " Which of the following Jain writers flourished in the court of Paramara kings?1) Dhanesvarasuri2) Dhanapala3) SantisuriSelect the correct option from the codes given below:",
             "op1": "Only 1 & 2",
             "op2": "Only 1 & 3",
             "op3": "Only 2 & 3",
             "op4": "1, 2, & 3",
-            "answer": "D"
+            "answer": "4"
         },
         {
-            "qus": " Which of the following temples is considered to be the earliest temple of Bhubaneswar?",
-            "op1": "Mukteshwara temple",
-            "op2": "Parasuramesvara temple",
-            "op3": "Lingraj Temple",
-            "op4": "Brahmeshwar Temple",
-            "answer": "B"
-        },
-        {
-            "qus": " Rugvinischaya or Madhava-Nidhana is the work of which of the following writers?",
-            "op1": "Madhavakar",
-            "op2": "Dridhabala",
-            "op3": "Agnivesa",
-            "op4": "None of the above",
-            "answer": "A"
-        },
-        {
-            "qus": " Which of the following Rashtrakita king made a new capital city Manyakheta?",
-            "op1": "Govinda II",
-            "op2": "Amoghavarsha I",
-            "op3": "Govinda III",
-            "op4": "Dantidurga",
-            "answer": "B"
-        },
-        {
-            "qus": " Which of the following kings wrote Prashnottara Ratnamalika?",
-            "op1": "Govind III",
-            "op2": "Dantidurga",
-            "op3": "Dhruva",
-            "op4": "Amoghavarsha I",
-            "answer": "D"
-        },
-        {
-            "qus": " After the death of Amogahvarsha II, which of the following kings ascended to the throne of the Rashtrakuta empire?",
-            "op1": "Govinda I",
-            "op2": "Govinda II",
-            "op3": "Govinda III",
-            "op4": "Govinda IV",
-            "answer": "D"
-        },
-        {
-            "qus": " Which of the following laid the foundations of the fort of Vatapi?",
-            "op1": "Jayasimha",
-            "op2": "Ranaraga",
-            "op3": "Pulkeshin I",
-            "op4": "Mangalesha",
-            "answer": "C"
-        },
-        {
-            "qus": " Vishnuvardhana III was succeeded by which of the following kings?",
-            "op1": "Jayasimha I",
-            "op2": "Jayasimha II",
-            "op3": "Vijayaditya I",
-            "op4": "Bhima",
-            "answer": "C"
-        },
-        {
-            "qus": " During the reign of which of the following kings the famousPancha Rathas Temple was constructed?",
-            "op1": "Narasimhavarman II",
-            "op2": "Mahendravarman I",
-            "op3": "Simhavishnu",
-            "op4": "Narasimhavarman I",
-            "answer": "D"
-        },
-        {
-            "qus": " The saints Appar, Siruthondar, and Tirugnanasambandar lived during the reign of which of the following kings?",
-            "op1": "Mahendravarman I",
-            "op2": "Narasimhavarman I",
-            "op3": "Mahendravarman II",
-            "op4": "Narasimhavarman II",
-            "answer": "B"
-        },
-        {
-            "qus": " Which of the following was the successor of Vijayalaya?",
-            "op1": "Aditya I",
-            "op2": "Parantaka I",
-            "op3": "Sundara Chola",
-            "op4": "Uttama Chola",
-            "answer": "A"
-        },
-        {
-            "qus": " Which of the following Chola King completely overran the Pandyas and Cheras and included them in his empire?",
-            "op1": "Rajaraja I",
-            "op2": "Rajadhiraja",
-            "op3": "Athirajendra",
-            "op4": "Rajendra I",
-            "answer": "D"
-        },
-        {
-            "qus": " During the reign of which of the following kings, Bay of Bengal was converted into a Chola lake?",
-            "op1": "Rajendra I",
-            "op2": "Virarajendra",
-            "op3": "Rajadhiraja",
-            "op4": "Athirajendra",
-            "answer": "A"
-        },
-        {
-            "qus": " Rajadhiraja died on the battlefield while fighting in the battle of Koppam against which of the following kings?",
-            "op1": "Jayasimha II",
-            "op2": "Someshwar",
-            "op3": "Jayasimha I",
-            "op4": "Jagadhekamalla I",
-            "answer": "B"
-        },
-        {
-            "qus": " The land revenue of the Chola Empire was fixed at?",
-            "op1": "1/6th of the produce",
-            "op2": "1/5th of the produce",
-            "op3": "1/4th of the produce",
-            "op4": "1/3rd of the produce",
-            "answer": "A"
-        },
-        {
-            "qus": " Rajasirnha I was succeeded by which of the following kings?",
-            "op1": "Maravarman Arikesari Parankusan",
-            "op2": "Srimar Srivallabha",
-            "op3": "Koccadiyan Ranadhira",
-            "op4": "Varguna I",
-            "answer": "D"
-        },
-        {
-            "qus": " Romans exported which of the following items to India during the Sangam period?1",
+            "question": " Which of the following items were imported from Balkh during the early medieval period?1",
             "op1": "Only 1",
             "op2": "Only 1 & 2",
             "op3": "Only 2 & 3",
             "op4": "1, 2 & 3",
-            "answer": "D"
+            "answer": "4"
         },
         {
-            "qus": "  Which type of seals were most common in Indus Valley Civilization?",
-            "op1": "Oval",
-            "op2": "Cylindrical",
-            "op3": "Quadrate",
-            "op4": "Rounded",
-            "answer": "C"
+            "question": " Which of the following characteristics were present in the buildings constructed in Kashmir during medieval period?1) They were constructed of immense stones, wrought with astonishing precision",
+            "op1": "Only 1 & 2",
+            "op2": "Only 2 & 3",
+            "op3": "Only 1 & 3",
+            "op4": "1, 2, & 3",
+            "answer": "4"
+        },
+        {
+            "question": " Which of the following authors composed Janakiharana?",
+            "op1": "Padmagupta",
+            "op2": "Kumaradas",
+            "op3": "Sanmitracharita",
+            "op4": "Abhinanda",
+            "answer": "2"
+        },
+        {
+            "question": " Which of the following was the author of Rajamartanda?",
+            "op1": "Bhoja",
+            "op2": "Jayanta",
+            "op3": "Nathamuni",
+            "op4": "Yamunacharya",
+            "answer": "1"
+        },
+        {
+            "question": " Which of the following Chola King annexed the northern Sri Lanka and named it Mummadichola mandalam?",
+            "op1": "Sundara Chola",
+            "op2": "Uttama Chola",
+            "op3": "Rajaraja I",
+            "op4": "Rajaraja II",
+            "answer": "3"
+        },
+        {
+            "question": " Someshwar the western Chalukyan king was defeated by which of the following kings?",
+            "op1": "Virarajendra",
+            "op2": "Rajendra II",
+            "op3": "Kollutung",
+            "op4": "Athirajendra",
+            "answer": "2"
+        },
+        {
+            "question": " The Chola empire known as Rajyam or Rastrayam was divided into how many mandalams?",
+            "op1": "6 mandalams",
+            "op2": "7 mandalams",
+            "op3": "8 mandalams",
+            "op4": "9 mandalams",
+            "answer": "3"
+        },
+        {
+            "question": " Nagarattar refers to which of the following?",
+            "op1": "Assembly of the leading men of a Nadu",
+            "op2": "Assembly of the Mercantile groups",
+            "op3": "Assembly of women",
+            "op4": "None of the above",
+            "answer": "2"
+        },
+        {
+            "question": " Which of the following places emerged as an important weaving industry centre during the Chola administration?",
+            "op1": "Ujjain",
+            "op2": "Madhurai",
+            "op3": "Kanchipuram",
+            "op4": "Kudamukku",
+            "answer": "3"
+        },
+        {
+            "question": " Agattiyam was written by which of the following?",
+            "op1": "Tolkappiyar",
+            "op2": "Sattanar",
+            "op3": "Senguttuvan",
+            "op4": "Agathiyar",
+            "answer": "4"
+        },
+        {
+            "question": " Which of the following King of the Sangam age is credited with constructing a dam on the river Kaveri?",
+            "op1": "Tondaiman Ilandiraiyan",
+            "op2": "Kulothunga",
+            "op3": "Karikala",
+            "op4": "None of the above",
+            "answer": "3"
+        },
+        {
+            "question": " Which of the following was the most important crop of Sangam period?",
+            "op1": "Wheat",
+            "op2": "Barley",
+            "op3": "Maize",
+            "op4": "Rice",
+            "answer": "4"
+        },
+        {
+            "question": "  Which of the following appears to be not known to people of Indus Valley Civilization?",
+            "op1": "Wheat",
+            "op2": "Pulses",
+            "op3": "Barley",
+            "op4": "Cotton",
+            "answer": "2"
+        },
+        {
+            "question": "  A lot of beads were discovered from Mohenjo-Daro in Indus Valley Civilization",
+            "op1": "Terracota",
+            "op2": "Jasper",
+            "op3": "Lapis",
+            "op4": "Steatite",
+            "answer": "4"
         }
     ]
 }
