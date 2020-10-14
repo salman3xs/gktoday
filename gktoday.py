@@ -1,6 +1,5 @@
 import requests
 from bs4 import BeautifulSoup
-import pandas
 import json
 
 r = requests.get('https://www.gktoday.in')
@@ -23,22 +22,25 @@ for x in topic:
             qus = soup1.find_all('div', {'class': 'sques_quiz'})
             for i in qus:
                 d = {}
-                d['qus'] = i.find('div', {'class': 'wp_quiz_question testclass'}).text.replace('\n', '').replace('\xa0', '')
+                qus = i.find('div', {'class': 'wp_quiz_question testclass'}).text.replace('\n', '').replace('\xa0', '').replace('\u2018', '').replace('\u2019', '').strip().split('.')
+                d['qus'] = qus[1]
                 try:
-                    option = i.find('div', {'class': 'wp_quiz_question_options'}).text.replace('\n           ', '')
+                    option = i.find('div', {'class': 'wp_quiz_question_options'}).text.replace('\n           ', '').replace('\u2013', '')
                 except:
                     continue
                 op = option.split('[')
-                d['op1'] = op[1].replace('A]', '')
-                d['op2'] = op[2].replace('B]', '')
-                d['op3'] = op[3].replace('C]', '')
-                d['op4'] = op[4].replace('D]', '')
-                d['ans'] = i.find('div', {'class': 'ques_answer'}).text.replace('\n           ', '')
+                d['op1'] = op[1].replace('A]', '').strip()
+                d['op2'] = op[2].replace('B]', '').strip()
+                d['op3'] = op[3].replace('C]', '').strip()
+                d['op4'] = op[4].replace('D]', '').strip()
+                answer = i.find('div', {'class': 'ques_answer'}).text.replace('\n           ', '').replace('Correct Answer: ', '').split(' ')
+                d['answer'] = answer[0]
                 data.append(d)
         #print(data)
         n+=1
     allqus = {}
-    allqus[heading] = data
+    allqus['topic'] = heading
+    allqus['data'] = data
     try:
         json_object = json.dumps(allqus, indent=4)
         with open(str(heading)+'.json', "w") as file:
